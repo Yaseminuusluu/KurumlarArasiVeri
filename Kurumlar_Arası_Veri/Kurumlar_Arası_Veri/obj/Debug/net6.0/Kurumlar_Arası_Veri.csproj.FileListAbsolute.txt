@@ -1,0 +1,15 @@
+C:\StajKodlaarı\Kurumlar_Arası_Veri\Kurumlar_Arası_Veri\bin\Debug\net6.0\Kurumlar_Arası_Veri.exe
+C:\StajKodlaarı\Kurumlar_Arası_Veri\Kurumlar_Arası_Veri\bin\Debug\net6.0\Kurumlar_Arası_Veri.deps.json
+C:\StajKodlaarı\Kurumlar_Arası_Veri\Kurumlar_Arası_Veri\bin\Debug\net6.0\Kurumlar_Arası_Veri.runtimeconfig.json
+C:\StajKodlaarı\Kurumlar_Arası_Veri\Kurumlar_Arası_Veri\bin\Debug\net6.0\Kurumlar_Arası_Veri.dll
+C:\StajKodlaarı\Kurumlar_Arası_Veri\Kurumlar_Arası_Veri\bin\Debug\net6.0\Kurumlar_Arası_Veri.pdb
+C:\StajKodlaarı\Kurumlar_Arası_Veri\Kurumlar_Arası_Veri\obj\Debug\net6.0\Kurumlar_Arası_Veri.csproj.AssemblyReference.cache
+C:\StajKodlaarı\Kurumlar_Arası_Veri\Kurumlar_Arası_Veri\obj\Debug\net6.0\Kurumlar_Arası_Veri.GeneratedMSBuildEditorConfig.editorconfig
+C:\StajKodlaarı\Kurumlar_Arası_Veri\Kurumlar_Arası_Veri\obj\Debug\net6.0\Kurumlar_Arası_Veri.AssemblyInfoInputs.cache
+C:\StajKodlaarı\Kurumlar_Arası_Veri\Kurumlar_Arası_Veri\obj\Debug\net6.0\Kurumlar_Arası_Veri.AssemblyInfo.cs
+C:\StajKodlaarı\Kurumlar_Arası_Veri\Kurumlar_Arası_Veri\obj\Debug\net6.0\Kurumlar_Arası_Veri.csproj.CoreCompileInputs.cache
+C:\StajKodlaarı\Kurumlar_Arası_Veri\Kurumlar_Arası_Veri\obj\Debug\net6.0\Kurumlar_Arası_Veri.dll
+C:\StajKodlaarı\Kurumlar_Arası_Veri\Kurumlar_Arası_Veri\obj\Debug\net6.0\refint\Kurumlar_Arası_Veri.dll
+C:\StajKodlaarı\Kurumlar_Arası_Veri\Kurumlar_Arası_Veri\obj\Debug\net6.0\Kurumlar_Arası_Veri.pdb
+C:\StajKodlaarı\Kurumlar_Arası_Veri\Kurumlar_Arası_Veri\obj\Debug\net6.0\Kurumlar_Arası_Veri.genruntimeconfig.cache
+C:\StajKodlaarı\Kurumlar_Arası_Veri\Kurumlar_Arası_Veri\obj\Debug\net6.0\ref\Kurumlar_Arası_Veri.dll
